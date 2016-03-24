@@ -1,0 +1,6 @@
+[submodule "src/library"]
+	path = src/library
+	url = git@bitbucket.org:playpowerlabs/cocos-libs.git
+[submodule "src/helper"]
+	path = src/helper
+	url = git@bitbucket.org:playpowerlabs/cocos-helper.git
